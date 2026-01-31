@@ -1,0 +1,12 @@
+[submodule "migrations"]
+	path = migrations
+	url = git@github.com:Deteccao-de-Cola/migrations.git
+[submodule "detection-service"]
+	path = detection-service
+	url = git@github.com:Deteccao-de-Cola/detection-service.git
+[submodule "client-service"]
+	path = client-service
+	url = git@github.com:Deteccao-de-Cola/client-service.git
+[submodule "app-service"]
+	path = app-service
+	url = git@github.com:Deteccao-de-Cola/app-service.git
