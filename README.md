@@ -40,3 +40,10 @@ Para atualizar todos os submódulos para as versões mais recentes:
 ```bash
 git submodule update --remote --merge
 ```
+
+
+## Atualizando submódulos
+
+para rodar o projeto
+```bash
+./init.sh```
